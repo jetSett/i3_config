@@ -128,6 +128,7 @@ bindsym $mod+Shift+i exec "firefox"
 bindsym $mod+Shift+o exec "thunderbird"	
 bindsym $mod+Shift+u exec "nautilus"	
 bindsym $mod+Shift+p exec "i3lock"
+bindsym $mod+Shift+w exec "KeeWeb"
 
 
 exec "xfce4-volumed"
